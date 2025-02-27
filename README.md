@@ -8,4 +8,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mounish-R/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mounish-R/Leetcode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Mounish-R/Leetcode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Mounish-R/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Mounish-R/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
