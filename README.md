@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mounish-R/Leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Mounish-R/Leetcode/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Mounish-R/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
