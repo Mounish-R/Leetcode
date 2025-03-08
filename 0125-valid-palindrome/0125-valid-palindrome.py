@@ -4,5 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        clean=''.join(c.lower() for c in s if c.isalnum())
-        return clean==clean[::-1]
+        clean=''
+        for c in s:
+            if c.isalnum():
+                clean+=c.lower()
+        return clean==clean[::-1]   
