@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mounish-R/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Mounish-R/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mounish-R/Leetcode/tree/master/0189-rotate-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mounish-R/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2551-apply-operations-to-an-array](https://github.com/Mounish-R/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Mounish-R/Leetcode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Mounish-R/Leetcode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Mounish-R/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mounish-R/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## String Matching
 |  |
 | ------- |
