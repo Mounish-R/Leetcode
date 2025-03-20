@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mounish-R/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mounish-R/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Mounish-R/Leetcode/tree/master/0189-rotate-array) |
+| [1635-number-of-good-pairs](https://github.com/Mounish-R/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2752-sum-multiples](https://github.com/Mounish-R/Leetcode/tree/master/2752-sum-multiples) |
 ## Array
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mounish-R/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Mounish-R/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mounish-R/Leetcode/tree/master/0189-rotate-array) |
+| [1635-number-of-good-pairs](https://github.com/Mounish-R/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mounish-R/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2551-apply-operations-to-an-array](https://github.com/Mounish-R/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mounish-R/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Mounish-R/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mounish-R/Leetcode/tree/master/0242-valid-anagram) |
+| [1635-number-of-good-pairs](https://github.com/Mounish-R/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mounish-R/Leetcode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Mounish-R/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
