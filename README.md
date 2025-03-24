@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mounish-R/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Mounish-R/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mounish-R/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mounish-R/Leetcode/tree/master/0283-move-zeroes) |
 | [1635-number-of-good-pairs](https://github.com/Mounish-R/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mounish-R/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2551-apply-operations-to-an-array](https://github.com/Mounish-R/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mounish-R/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mounish-R/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Mounish-R/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mounish-R/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mounish-R/Leetcode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/Mounish-R/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/Mounish-R/Leetcode/tree/master/2551-apply-operations-to-an-array) |
